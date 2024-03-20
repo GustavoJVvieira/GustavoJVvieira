@@ -1,21 +1,21 @@
 
+# Hi Everyone 👋👋 My name is Gustavo Vieira 🫡
 
-###
+#### Hello! My name is Gustavo Vieira, and I am passionate about technology and programming, constantly seeking challenges and learning opportunities. I have a Technical Degree in Internet Computing from the Federal Center of Technological Education (CEFET - Campus V), and currently, I am pursuing a degree in Information Systems at the Federal University of Minas Gerais (UFMG), where I have been enhancing my technical skills and knowledge in various programming languages.
+
+
+### Contact me 
 <div align="left">
   
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src ="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="35" alt="linkedin logo""/n>
+ <a a href= "https://www.instagram.com/_vi_eira/" target="_blank" ><img  target="_blank" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"></a>
+  <a href = "mailto:gustavojvieira20004@gmail.com" target="_blank" ><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" target="_blank"></a>
+  <a href= "https://www.linkedin.com/in/gustavo-vieira-174b692bb/" target="_blank" ><img  src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" target="_blank"></a>
+ 
   
 </div>
 
 
-###
-
-<img src="https://raw.githubusercontent.com/GustavoJVvieira/GustavoJVvieira/output/snake.svg" alt="Snake animation" />
-
-### A few technologies I study
+### Programming Languages and Frameworks:
 
 <div align="left">
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" height="40" alt="html5 logo"  />
@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="40" alt="cplusplus logo"  />
 </div>
 
-### A few tools I master 
+### Tools :  
 
 <div align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="40" alt="linux logo"  />
