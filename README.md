@@ -1,7 +1,7 @@
 
 # 🏄‍♂️ Gustavo Vieira
 
- **`Desenvolvedor FullStack`**
+ **`Desenvolvedor Back-End`**
 
 Graduando em Sistema de Informação pela Universidade Federal de Minas Gerais (UFMG) com técnico  completo em Informática para Internet pelo Centro Federal de Ensino Tecnológico de Minas Gerais (CEFET-MG), fascinado por tecnologia e determinado a crescer profissionalmente.
 
