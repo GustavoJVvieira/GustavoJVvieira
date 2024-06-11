@@ -1,10 +1,10 @@
 # 🏄‍♂️ Gustavo Vieira
 
- **`Desenvolvedor Back-End`**
+
  
 ![Gustavo Vieira](https://github.com/GustavoJVvieira/GustavoJVvieira/assets/164119202/4f7ae164-3fa1-4d44-8e80-f8a4070ef999)
 
-
+ 
 Graduando em Sistema de Informação pela Universidade Federal de Minas Gerais (UFMG) com técnico  completo em Informática para Internet pelo Centro Federal de Ensino Tecnológico de Minas Gerais (CEFET-MG), fascinado por tecnologia e determinado a crescer profissionalmente.
 
 - Atualmente estou trabalhando em: **[Projetos Práticos em Java ]()**
