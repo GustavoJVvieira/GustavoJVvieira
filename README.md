@@ -7,7 +7,7 @@
  
 Graduando em Sistema de Informação pela Universidade Federal de Minas Gerais (UFMG) com técnico  completo em Informática para Internet pelo Centro Federal de Ensino Tecnológico de Minas Gerais (CEFET-MG), fascinado por tecnologia e determinado a crescer profissionalmente.
 
-- Atualmente estou trabalhando em: **[Criação de um Campo Minado em C]()**
+- Atualmente estou trabalhando em: **[Jogos de Tabuleiro com Orientação OOP]()**
 - Aprendendo sobre: **[ Aprendendo Programação Orientada a Objetos em 21 dias ](https://github.com/josemalcher/Aprenda-Programacao-Orientada-a-Objeto-em-21-dias)**
 
 # 
@@ -42,6 +42,8 @@ Graduando em Sistema de Informação pela Universidade Federal de Minas Gerais (
 #
 
 ### Projetos Destacados
+
+###[Sbam Sneakers]()
 
 ### 📱 [FeedUP](https://github.com/GustavoJVvieira/Feedup)
 Fui Responsável pelo desenvolvimento Back-End de uma REST API  de um projeto no qual tem como funcionalidade principal o fomento de uma comunidade para trocas de feedbacks entre colaboradores de uma empresa, com objetivos de aumentar o engajamento dos colaboradores. 
