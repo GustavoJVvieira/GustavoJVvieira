@@ -43,7 +43,6 @@ Graduando em Sistema de Informação pela Universidade Federal de Minas Gerais (
 
 ### Projetos Destacados
 
-###[Sbam Sneakers]()
 
 ### 📱 [FeedUP](https://github.com/GustavoJVvieira/Feedup)
 Fui Responsável pelo desenvolvimento Back-End de uma REST API  de um projeto no qual tem como funcionalidade principal o fomento de uma comunidade para trocas de feedbacks entre colaboradores de uma empresa, com objetivos de aumentar o engajamento dos colaboradores. 
