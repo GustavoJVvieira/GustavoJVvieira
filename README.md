@@ -1,7 +1,7 @@
 # 🏄‍♂️ Gustavo Vieira | Data Analyst 🏄‍♂️
 
 
- <img width="1067" height="440" alt="banner" src="https://github.com/user-attachments/assets/65ec1686-62e0-46d2-9ca3-76e9b1d026ec" />
+<img width="1584" height="396" alt="Blue White Modern Business Consultant LinkedIn Banner" src="https://github.com/user-attachments/assets/fd7d41ac-ac06-4da3-9a16-99f119b3eadd" />
 
 
  
