@@ -1,4 +1,4 @@
-# 🏄‍♂️ Gustavo Vieira | Data Analyst 🏄‍♂️
+# 🏄‍♂️ Gustavo Vieira | Data Scientist 🏄‍♂️
 
 
 <img width="1584" height="396" alt="Blue White Modern Business Consultant LinkedIn Banner" src="https://github.com/user-attachments/assets/fd7d41ac-ac06-4da3-9a16-99f119b3eadd" />
